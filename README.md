@@ -1,0 +1,2 @@
+# web_data_collector
+requestsとBeautifulSoupを使用したWebデータ収集ツール
