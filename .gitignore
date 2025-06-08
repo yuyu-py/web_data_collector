@@ -192,3 +192,15 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Virtual environment
+myenv/
+
+# Collected data files
+collected_data/
+*.csv
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
